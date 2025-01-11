@@ -4,7 +4,7 @@ This repository contains information about the Deep Learning course, including t
 
 # Content
 
-- [**Schedule**](#Course-Flow-and-Schedule)
+- [**Schedule**](#Course-Schedule)
 - [Instructor](#Instructor)
 - [Course Description](#Description)
 - [Course Objectives](#Objectives)
@@ -59,17 +59,15 @@ Prerequisite: CMPSC 301.
 
 Distribution Requirements: QR, SP.
 
-## Learning Outcomes:
+## Learning Outcomes
+
+### Course Learning Outcomes
 
 1. Apply concepts from calculus and linear algebra to create predictive models that use a deep neural network.
 2. Use Python to implement and interpret a multilayer neural network that can process various sources of data.
 3. Use an existing deep learning model in an application for predictive data analysis and communicate the results effectively in both written and oral formats.
 4. Evaluate, optimize, and improve the performance of a deep learning model with a focus on its ethical impact.
 5. Build, train, test, document, and deploy a new deep learning model in a software application.
-
-### Materials
-
-There is no required materials for this course. All reading material will be provided by the instructor and linked on the [course schedule](#Schedule). 
 
 ### Distribution Learning Outcomes
 
@@ -95,9 +93,7 @@ GitHub and Discord are the main digital channels used in this course for communi
 
 In this course, we will follow [department's policies](https://www.cis.allegheny.edu/teaching/policies/) regarding attendance, late assignment submissions, and AI use. Non-participation in a class activity will result in a missed attendance mark.
 
-### Grading
-
-# Grading Structure
+### Grading Structure
 
 | **Component**              | **Percentage** |
 |----------------------------|----------------|
@@ -107,7 +103,9 @@ In this course, we will follow [department's policies](https://www.cis.allegheny
 | **Labs and Assignments**    | 35%            |
 | **Class Activities**        | 20%            |
 
-### Breakdown:
+[Tokens](https://forms.gle/BC8mcBNYTB1MJqVW7) may be used for these assignments as described in the department's policy with the exception of the exams. A token must be requested *at most one week after* the assignment deadline.
+
+#### Breakdown:
 1. **Midterm Exam (15%)**  
    Covers material from Weeks 1–7, focusing on foundational concepts and techniques in deep learning.
 
