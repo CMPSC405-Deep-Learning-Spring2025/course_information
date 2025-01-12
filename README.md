@@ -100,7 +100,7 @@ In this course, we will follow [department's policies](https://www.cis.allegheny
 | **Midterm Exam**            | 15%            |
 | **Final Exam**              | 15%            |
 | **Final Project**           | 20%            |
-| **Labs and Assignments**    | 35%            |
+| **Labs**    | 35%            |
 | **Class Activities**        | 20%            |
 
 [Tokens](https://forms.gle/BC8mcBNYTB1MJqVW7) may be used for two missed or incomplete assignments as described in the department's policy with the exception of the exams. A token must be requested *at most one week after* the assignment deadline.
