@@ -53,7 +53,7 @@ Email: jjumadinova@allegheny.edu
 
 Credits: 4
 
-An interrogation of foundational capabilities, challenges and consequences of deep learning algorithms. Participating in hands-on activities that often require teamwork, students master theoretical concepts to build and train neural network architectures and learn how to improve them. Leveraging insights and tools from an industry partner, students also investigate real-world cases such as speech recognition, machine translation, computer vision, and natural language processing. During a weekly laboratory session students use advanced operating systems software to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+An interrogation of foundational capabilities, challenges and consequences of deep learning algorithms. Participating in hands-on activities that often require teamwork, students master theoretical concepts to build and train neural network architectures and learn how to improve them. Leveraging insights and tools from an industry partner, students also investigate real-world cases such as speech recognition, machine translation, computer vision, and natural language processing. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 Prerequisite: CMPSC 301.
 
