@@ -18,24 +18,24 @@ Below is a tentative schedule of covered topics and associated activities. The s
 
 # Course Schedule
 
-| **Week** | **Dates**                | **Topics**                                                                 |
-|----------|--------------------------|---------------------------------------------------------------------------|
-| **Week 1** | January 13 - January 17   | Overview of Deep Learning |
-| **Week 2** | January 20 - January 24   | Linear Algebra Basics (Vectors, Matrices, Operations), Derivatives and Gradients |
-| **Week 3** | January 27 - January 31   | Perceptrons and Multilayer Perceptrons (MLPs), Activation Functions        |
-| **Week 4** | February 3 - February 7   | Forward and Backward Propagation, Loss Functions, Optimization Algorithms (SGD, Adam) |
-| **Week 5** | February 10 - February 14 | Data Normalization and Augmentation, Creating and Managing Datasets        |
-| **Week 6** | February 17 - February 21 | Introduction to PyTorch, Implementing Neural Networks in PyTorch           |
-| **Week 7** | February 24 - February 28 | Understanding Convolutions, CNN Architectures                              |
-| **Week 8** | March 3 - March 7         | Midterm Exam, Project Proposal Presentations                               |
-| **Spring Break** | March 10 - March 14  | -                                                                         |
-| **Week 10** | March 17 - March 21       | Sequence Modeling, RNN Architectures                                       |
-| **Week 11** | March 24 - March 28      | Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRUs), Transformers |
-| **Week 12** | March 31 - April 4       | Hyperparameter Tuning, Ethical Considerations in Deep Learning            |
-| **Week 13** | April 7 - April 11       | Applications in Vision, NLP, and Healthcare, Using Pretrained Models       |
-| **Week 14** | April 14 - April 18      | Deployment Strategies, Model Interpretability                              |
-| **Week 15** | April 21 - April 25      | Project Work, Peer Reviews                                                 |
-| **Final Exam Period** | April 28 - May 2  | Final Exam, Course Reflection                                               |
+| **Week** | **Dates**                | **Topics**                                                                 | **Assignments** |
+|----------|--------------------------|---------------------------------------------------------------------------| -------------|
+| **Week 1** | January 13 - January 17   | Overview of Deep Learning | <ul><li>[Read Sections 1 and 2 of Introduction to NN Blog](https://victorzhou.com/blog/intro-to-neural-networks/)</li> <li>[Activity 1](https://classroom.github.com/a/OVUu2vjd)</li></ul>
+| **Week 2** | January 20 - January 24   | Linear Algebra Basics (Vectors, Matrices, Operations), Derivatives and Gradients | |
+| **Week 3** | January 27 - January 31   | Perceptrons and Multilayer Perceptrons (MLPs), Activation Functions        | |
+| **Week 4** | February 3 - February 7   | Forward and Backward Propagation, Loss Functions, Optimization Algorithms (SGD, Adam) | |
+| **Week 5** | February 10 - February 14 | Data Normalization and Augmentation, Creating and Managing Datasets        | |
+| **Week 6** | February 17 - February 21 | Introduction to PyTorch, Implementing Neural Networks in PyTorch           | |
+| **Week 7** | February 24 - February 28 | Understanding Convolutions, CNN Architectures                              | |
+| **Week 8** | March 3 - March 7         | Midterm Exam, Project Proposal Presentations                               | |
+| **Spring Break** | March 10 - March 14  | -                                                                         | |
+| **Week 10** | March 17 - March 21       | Sequence Modeling, RNN Architectures                                       | |
+| **Week 11** | March 24 - March 28      | Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRUs), Transformers | |
+| **Week 12** | March 31 - April 4       | Hyperparameter Tuning, Ethical Considerations in Deep Learning            | |
+| **Week 13** | April 7 - April 11       | Applications in Vision, NLP, and Healthcare, Using Pretrained Models       | |
+| **Week 14** | April 14 - April 18      | Deployment Strategies, Model Interpretability                              | |
+| **Week 15** | April 21 - April 25      | Project Work, Peer Reviews                                                 | |
+| **Final Exam Period** | April 28 - May 2  | Final Exam, Course Reflection                                              | |
 
 ## Instructor
 
