@@ -22,10 +22,10 @@ Below is a tentative schedule of covered topics and associated activities. The s
 |----------|--------------------------|---------------------------------------------------------------------------| -------------|
 | **Week 1** | January 13 - January 17   | Overview of Deep Learning | <ul><li>[Read Sections 1 and 2 of Introduction to NN Blog](https://victorzhou.com/blog/intro-to-neural-networks/)</li> <li>[Activity 1](https://classroom.github.com/a/OVUu2vjd)</li></ul>
 | **Week 2** | January 20 - January 24   | Linear Algebra Basics (Vectors, Matrices, Operations), Derivatives and Gradients | <ul><li>Read Chapters 1 and 2 in [Dive into Deep Learning](https://d2l.ai/chapter_introduction/index.html)</li> <li>[Lab 1](https://classroom.github.com/a/REGZ_wCT)</li> <li>[Activity 2](https://classroom.github.com/a/5qeIq9Iq)</li></ul> |
-| **Week 3** | January 27 - January 31   | Perceptrons and Multilayer Perceptrons (MLPs), Activation Functions        | |
+| **Week 3** | January 27 - January 31   | Perceptrons and Multilayer Perceptrons (MLPs), Activation Functions        | <ul><li> Read Chapter 3 (focusing on 3.1) in  [Dive into Deep Learning](https://d2l.ai/chapter_introduction/index.html)</li> <li> [Lab 2]()</li> <li>[Activity 3]()</li></ul> |
 | **Week 4** | February 3 - February 7   | Forward and Backward Propagation, Loss Functions, Optimization Algorithms (SGD, Adam) | |
 | **Week 5** | February 10 - February 14 | Data Normalization and Augmentation, Creating and Managing Datasets        | |
-| **Week 6** | February 17 - February 21 | Introduction to PyTorch, Implementing Neural Networks in PyTorch           | |
+| **Week 6** | February 17 - February 21 |  Implementing Neural Networks in PyTorch           | |
 | **Week 7** | February 24 - February 28 | Understanding Convolutions, CNN Architectures                              | |
 | **Week 8** | March 3 - March 7         | Midterm Exam, Project Proposal Presentations                               | |
 | **Spring Break** | March 10 - March 14  | -                                                                         | |
