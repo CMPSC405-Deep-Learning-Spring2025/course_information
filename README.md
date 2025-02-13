@@ -25,13 +25,13 @@ Below is a tentative schedule of covered topics and associated activities. The s
 | **Week 3** | January 27 - January 31   | Linear Neural Networks. Loss Functions. Optimization Algorithms.      | <ul><li> Read Chapter 3 (focusing on 3.1) in  [Dive into Deep Learning](https://d2l.ai/chapter_linear-classification/index.html)</li> <li> [Lab 2](https://classroom.github.com/a/aCkhO8ck)</li> <li>[Activity 3](https://classroom.github.com/a/txt5pqLy)</li><li>[Activity 4](https://github.com/orgs/CMPSC405-Deep-Learning-Spring2025/discussions/1)</li></ul> |
 | **Week 4** | February 3 - February 7   | Linear Neural Networks. Generalization. Activation Functions. | <ul><li> Read Chapter 4 (focusing on 4.1) and review Chapter 2.6 in  [Dive into Deep Learning](https://d2l.ai/chapter_introduction/index.html). </li> <li> [Lab 2](https://classroom.github.com/a/aCkhO8ck)</li> <li>[Activity 5](https://classroom.github.com/a/7ZCaf6j_)</li> <li>[Activity 6](https://classroom.github.com/a/9z_11p2v)</li></ul> |
 | **Week 5** | February 10 - February 14 | Multilayer Perceptrons       | <ul><li>[Activity 7](https://github.com/CMPSC405-Deep-Learning-Spring2025/course_information/tree/main/notes/Ch1-4_review.md)</li> <li>[Lab 3](https://classroom.github.com/a/xf9iVoFV)</li> <li>[Activity 8](https://classroom.github.com/a/YjKTeHiM) </li> <li> Read Chapter 5 in  [Dive into Deep Learning](https://d2l.ai/chapter_multilayer-perceptrons/index.html).</li></ul> |
-| **Week 6** | February 17 - February 21 |  Implementing Neural Networks in PyTorch           | |
-| **Week 7** | February 24 - February 28 | Understanding Convolutions, CNN Architectures                              | |
-| **Week 8** | March 3 - March 7         | Midterm Exam, Project Proposal Presentations                               | |
-| **Spring Break** | March 10 - March 14  | -                                                                         | |
+| **Week 6** | February 17 - February 21 |  Deep Learning Computation           | |
+| **Week 7** | February 24 - February 28 | Midterm Exam on February 25th. Understanding Convolutions.                             | |
+| **Week 8** | March 3 - March 7         | SPRING BREAK                               | |
+| **Spring Break** | March 10 - March 14  | CNN Architectures                                                                      | |
 | **Week 10** | March 17 - March 21       | Sequence Modeling, RNN Architectures                                      | |
 | **Week 11** | March 24 - March 28      | Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRUs), Transformers | |
-| **Week 12** | March 31 - April 4       | Hyperparameter Tuning, Ethical Considerations in Deep Learning             | |
+| **Week 12** | March 31 - April 4       | Hyperparameter Tuning, Ethical Considerations in Deep Learning, Project Proposals  | |
 | **Week 13** | April 7 - April 11       | Applications in Vision, NLP, and Healthcare, Using Pretrained Models       | |
 | **Week 14** | April 14 - April 18      | Deployment Strategies, Model Interpretability                              | |
 | **Week 15** | April 21 - April 25      | Project Work, Peer Reviews                                                 | |
