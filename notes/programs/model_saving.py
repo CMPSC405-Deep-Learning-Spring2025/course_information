@@ -16,14 +16,14 @@ class MyModel(nn.Module):
 # Create model instance
 model = MyModel()
 
-# Define optimizer
-optimizer = optim.SGD(model.parameters(), lr=0.1)
-
 # Dummy input tensor
 x = torch.randn(5, 5)  # Batch size = 5, Feature size = 5
 
 # Forward pass to initialize the model lazily
 model(x)
+
+# Define optimizer
+optimizer = optim.SGD(model.parameters(), lr=0.1)
 
 # Print initial weights
 print("Initial Weights (Before Training):")
@@ -47,7 +47,8 @@ torch.save(model.state_dict(), "saved_model.pth")
 
 # Reload model into a new instance
 new_model = MyModel()
-new_model.load_state_dict(torch.load("saved_model.pth"))
+new_model(x)  # Forward pass to initialize 'net'
+new_model.load_state_dict(torch.load("saved_model.pth", weights_only=True))
 
 # Print weights after reloading
 print("\nWeights After Reloading:")
