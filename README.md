@@ -87,11 +87,11 @@ Distribution Requirements: QR, SP.
 
 ### Communication
 
-GitHub and Discord are the main digital channels used in this course for communication. Students are responsible for regularly checking these platforms to ensure that the important messages are not being missed.
+GitHub and Discord are the main digital channels used in this course for communication. Students are responsible for regularly checking these platforms to ensure that important messages are not being missed.
 
 ### Department Policies
 
-In this course, we will follow [department's policies](https://www.cis.allegheny.edu/teaching/policies/) regarding attendance, late assignment submissions, and AI use. Non-participation in a class activity will result in a missed attendance mark.
+This course will follow [department's policies](https://www.cis.allegheny.edu/teaching/policies/) regarding attendance, late assignment submissions, and AI use. Non-participation in a class activity will result in a missed attendance mark.
 
 ### Grading Structure
 
@@ -103,7 +103,9 @@ In this course, we will follow [department's policies](https://www.cis.allegheny
 | **Labs**    | 35%            |
 | **Class Activities**        | 20%            |
 
-[Tokens](https://forms.gle/BC8mcBNYTB1MJqVW7) may be used for two missed or incomplete assignments as described in the department's policy with the exception of the exams. A token must be requested *at most one week after* the assignment deadline.
+[Tokens](https://forms.gle/BC8mcBNYTB1MJqVW7) may be used for two missed or incomplete assignments as described in the department's policy except for the exam retakes (token can be used to take the missed exam). A token must be requested *at most one week after* the assignment deadline.
+
+To earn extra tokens, you can 1) participate in two events related to CIS and/or 2) participate in the hackathon (must contribute to a project) AND submit reflection using [this Extra Token Request Form](https://forms.gle/UagoZaDte7amqitp8).
 
 #### Breakdown:
 1. **Midterm Exam (15%)**  
