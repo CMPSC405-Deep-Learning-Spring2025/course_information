@@ -99,7 +99,7 @@ This course will follow [department's policies](https://www.cis.allegheny.edu/te
 |----------------------------|----------------|
 | **Midterm Exam**            | 15%            |
 | **Final Exam**              | 15%            |
-| **Final Project**           | 20%            |
+| **Final Project**           | 15%            |
 | **Labs**    | 35%            |
 | **Class Activities**        | 20%            |
 
