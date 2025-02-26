@@ -48,3 +48,4 @@ The exam will consist of 5 multiple-choice questions (3 points each), 5 short-an
 1. Your organization wants to predict how many units of a product will sell next month. You have features such as recent sales, ad budget, and seasonality indicators. The current linear regression model shows signs of underfitting and errors remain high. How would you improve predictions, and what regularization technique you might consider to avoid potential overfitting?
 
 2. You are asked to build a neural network that classifies whether images contain defects in car parts on an assembly line. The dataset is large but has imbalanced classes (many times more "good" parts than "defective" parts). How will you make to ensure robust performance under class imbalance?
+
