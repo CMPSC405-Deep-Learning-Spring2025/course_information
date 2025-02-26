@@ -105,7 +105,7 @@ This course will follow [department's policies](https://www.cis.allegheny.edu/te
 
 [Tokens](https://forms.gle/BC8mcBNYTB1MJqVW7) may be used for two missed or incomplete assignments as described in the department's policy except for the exam retakes (token can be used to take the missed exam). A token must be requested *at most one week after* the assignment deadline.
 
-To earn extra tokens, you can 1) participate in two events related to CIS and/or 2) participate in the hackathon (must contribute to a project) AND submit reflection using [this Extra Token Request Form](https://forms.gle/UagoZaDte7amqitp8).
+To earn extra tokens, you can 1) participate in two events related to CIS and/or 2) participate in the hackathon (must contribute to a project) AND submit a reflection using [this Extra Token Request Form](https://forms.gle/UagoZaDte7amqitp8).
 
 #### Breakdown:
 1. **Midterm Exam (15%)**  
@@ -125,7 +125,7 @@ A = 97, A- = 93, B+ = 88, B=85, B-=82, C+ = 78, C = 75, C-=72, D = 65
 6. **Class Activities (20%)**  
    Includes participation in in-class activities, group discussions, and collaborative exercises that deepen understanding of the material and foster engagement.
 
-#### Grading Scale
+#### Final Course Grade Scale
 
 |Grading scale|            |             |            |             |            |
 |:------------|:-----------|:------------|:-----------|:------------|:-----------|
