@@ -118,10 +118,22 @@ To earn extra tokens, you can 1) participate in two events related to CIS and/or
    A practical project demonstrating the application of deep learning concepts. Assessed on the quality, complexity, and depth of the implementation and analysis.
 
 4. **Labs (35%)**  
-   Regular assignments to reinforce weekly topics, focusing on coding, problem-solving, and hands-on experience with deep learning tools and frameworks.
+   Regular assignments to reinforce weekly topics, focusing on coding, problem-solving, and hands-on experience with deep learning tools and frameworks. The following grade conversion is used for labs (+-2 points for normalization). Note that lab grades typically include, A, B, C, D, F, and only on rare occasions -/+ variations of those grades:
+   
+A = 97, A- = 93, B+ = 88, B=85, B-=82, C+ = 78, C = 75, C-=72, D = 65
 
-5. **Class Activities (20%)**  
+6. **Class Activities (20%)**  
    Includes participation in in-class activities, group discussions, and collaborative exercises that deepen understanding of the material and foster engagement.
+
+#### Grading Scale
+
+|Grading scale|            |             |            |             |            |
+|:------------|:-----------|:------------|:-----------|:------------|:-----------|
+|A            | 96 - 100   |A-           | 90 - 95.9  |
+|B+           | 87 - 89.9  |B            | 83 - 86.9  |B-           | 80 - 82.9  |
+|C+           | 77 - 79.9  |C            | 73 - 76.9  |C-           | 70 - 72.9  |
+|D+           | 67 - 69.9  |D            | 63 - 66.9  |D-           | 60 - 62.9  |
+|F            | 59.9 and below |
 
 ## Allegheny College Policy and Awareness Statements
 
