@@ -28,7 +28,7 @@ Below is a tentative schedule of covered topics and associated activities. The s
 | **Week 6** | February 17 - February 21 |  Deep Learning Computation           | <ul><li>[Activity 9](https://classroom.github.com/a/i9gLEUHD) </li> <li> Read Chapter 6 in [Dive into Deep Learning](https://d2l.ai/chapter_builders-guide/index.html)</li></ul> |
 | **Week 7** | February 24 - February 28 | Midterm Exam on February 25th. Understanding Convolutions.                             |  <ul><li> [Activity 10 Supplement](https://colab.research.google.com/drive/1a_E3aRfyROo1qwlPvLrqMDDRI7B65Og1?usp=sharing) </li></ul> |
 | **Week 8** | March 3 - March 7         | SPRING BREAK                               | |
-| **Week 9** | March 10 - March 14  | CNN Architectures                                                                      | |
+| **Week 9** | March 10 - March 14  | CNN Architectures                                                                      | <ul><li> Read Chapters 7 and 8 in [Dive into Deep Learning](https://d2l.ai/chapter_convolutional-neural-networks/index.html) </li> <li>[Activity 11]()</li></ul> |
 | **Week 10** | March 17 - March 21       | Sequence Modeling, RNN Architectures                                      | |
 | **Week 11** | March 24 - March 28      | Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRUs), Transformers | |
 | **Week 12** | March 31 - April 4       | Hyperparameter Tuning, Ethical Considerations in Deep Learning, Project Proposals  | |
