@@ -103,7 +103,7 @@ This course will follow [department's policies](https://www.cis.allegheny.edu/te
 | **Labs**    | 35%            |
 | **Class Activities**        | 20%            |
 
-[Tokens](https://forms.gle/BC8mcBNYTB1MJqVW7) may be used for two missed or incomplete assignments as described in the department's policy except for the exam retakes (token can be used to take the missed exam). A token must be requested *at most one week after* the assignment deadline.
+[Tokens](https://forms.gle/BC8mcBNYTB1MJqVW7) may be used for two missed or incomplete assignments as described in the department's policy except for the exam retakes (token can be used to take the missed exam). A token can be requested *at any point* of the semester. The assignment for which the token is requested can be submitted at any point of the semester but before the last day of classes.
 
 To earn extra tokens, you can 1) participate in two events related to CIS and/or 2) participate in the hackathon (must contribute to a project) AND submit a reflection using [this Extra Token Request Form](https://forms.gle/UagoZaDte7amqitp8).
 
