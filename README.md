@@ -114,7 +114,7 @@ To earn extra tokens, you can 1) participate in two events related to CIS and/or
 2. **Final Exam (15%)**  
    Comprehensive exam covering all course topics, including material from the midterm exam.
 
-3. **Final Project (20%)**  
+3. **Final Project (15%)**  
    A practical project demonstrating the application of deep learning concepts. Assessed on the quality, complexity, and depth of the implementation and analysis.
 
 4. **Labs (35%)**  
