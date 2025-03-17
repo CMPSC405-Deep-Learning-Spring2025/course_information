@@ -30,7 +30,7 @@ Below is a tentative schedule of covered topics and associated activities. The s
 | **Week 8** | March 3 - March 7         | SPRING BREAK                               | |
 | **Week 9** | March 10 - March 14  | CNN Architectures     | <ul><li> Read Chapters 7 and 8 in [Dive into Deep Learning](https://d2l.ai/chapter_convolutional-neural-networks/index.html) </li> <li>[Activity 11](https://classroom.github.com/a/0iUWzHDh)</li> <li>[Activity 12](https://classroom.github.com/a/NnKHhU4W)</li><li>[Lab 4](https://classroom.github.com/a/Hs4KPJ4w)</li></ul> |
 | **Week 10** | March 17 - March 21       | Sequence Modeling. RNN Architectures   | <ul><li> Read Chapter 9 in [Dive into Deep Learning](https://d2l.ai/chapter_recurrent-neural-networks)</li></ul> |
-| **Week 11** | March 24 - March 28      | Long Short-Term Memory (LSTM) and Modern RNNs. | <ul><li> Read Chapter 10 in [Dive into Deep Learning](https://d2l.ai/chapter_recurrent-modern)</li></ul> |
+| **Week 11** | March 24 - March 28      | Long Short-Term Memory (LSTM) and Modern RNNs. | <ul><li> Read Chapter 10 in [Dive into Deep Learning](https://d2l.ai/chapter_recurrent-modern)</li> <li>[Activity 13](https://classroom.github.com/a/0Ny4qNkE)</li></ul> |
 | **Week 12** | March 31 - April 4       | Attention and Transformers. Project Proposals  | <ul><li> Read Chapter 11 in [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers)</li></ul> |
 | **Week 13** | April 7 - April 11       | Hyperparameter Tuning. Ethical Considerations in Deep Learning       | |
 | **Week 14** | April 14 - April 18      | Deployment Strategies, Model Interpretability                              | |
