@@ -32,7 +32,7 @@ Below is a tentative schedule of covered topics and associated activities. The s
 | **Week 10** | March 17 - March 21       | Sequence Modeling. RNN Architectures   | <ul><li> Read Chapter 9 in [Dive into Deep Learning](https://d2l.ai/chapter_recurrent-neural-networks)</li></ul> |
 | **Week 11** | March 24 - March 28      | Long Short-Term Memory (LSTM) and Modern RNNs. | <ul><li> Read Chapter 10 in [Dive into Deep Learning](https://d2l.ai/chapter_recurrent-modern)</li> <li>[Activity 13](https://classroom.github.com/a/0Ny4qNkE)</li></ul> |
 | **Week 12** | March 31 - April 4       | Attention and Transformers. Project Proposals  | <ul><li> Read Chapter 11 in [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers)</li></ul> |
-| **Week 13** | April 7 - April 11       | Hyperparameter Tuning. Ethical Considerations in Deep Learning       | |
+| **Week 13** | April 7 - April 11       | Hyperparameter Tuning. Ethical Considerations in Deep Learning       | <ul><li>No Class on April 9th</li></ul>|
 | **Week 14** | April 14 - April 18      | Deployment Strategies, Model Interpretability                              | |
 | **Week 15** | April 21 - April 25      | Project Work, Peer Reviews                                                 | |
 | **Final Exam Period** | April 28 - May 2  | Final Exam, Course Reflection                                           | |
