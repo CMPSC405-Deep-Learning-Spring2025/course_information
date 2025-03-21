@@ -35,7 +35,7 @@ Below is a tentative schedule of covered topics and associated activities. The s
 | **Week 13** | April 7 - April 11       | Hyperparameter Tuning. Ethical Considerations in Deep Learning       | <ul><li>No Class on April 9th</li></ul>|
 | **Week 14** | April 14 - April 18      | Deployment Strategies, Model Interpretability                              | |
 | **Week 15** | April 21 - April 25      | Project Work, Peer Reviews                                                 | |
-| **Final Exam Period** | April 28 - May 2  | Final Exam, Course Reflection                                           | |
+| **Final Exam Period** | April 28 - May 2  | Final Exam on May 1st at 9am                                        | |
 
 ## Instructor
 
