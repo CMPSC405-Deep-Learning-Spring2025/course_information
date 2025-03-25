@@ -53,89 +53,7 @@ In groups of 4-5 people, you will act out an LSTM and a GRU. Each person will ta
 
 ---
 
-## 🔍 Example: Acting Out an LSTM (5 People)
-
-Let’s walk through a specific example using the phrase:
-
-**Input Sequence**: `"I love myself."`
-
-### Step 1: Time Step 1 ("I")
-- **Input Provider (xₜ)**:  
-  `"I"` is the first input. Passes `xₜ = "I"` to the gates.
-
-- **Forget Gate**:  
-  No previous memory exists yet, so there is nothing to forget.  
-  **Decision**: Forget 0%.
-
-- **Input Gate**:  
-  New information is valuable at the start.  
-  **Decision**: Keep 100% of `"I"`.
-
-- **Output Gate**:  
-  Share `"I"` as output since it is the only word.  
-  **Decision**: Output = `"I"`.
-
-- **Memory Tracker**:  
-  - **Cell State**: `"I"`  
-  - **Hidden State**: `"I"` (output)
-
-✅ **Output so far**: `"I"`
-
----
-
-### Step 2: Time Step 2 ("love")
-- **Input Provider (xₜ)**:  
-  Passes the next input: `xₜ = "love"`.
-
-- **Forget Gate**:  
-  Since `"I"` is still relevant, keep most of it.  
-  **Decision**: Forget 10% of previous memory.
-
-- **Input Gate**:  
-  `"Love"` is important new information.  
-  **Decision**: Keep 90% of `"love"`.
-
-- **Output Gate**:  
-  We want to highlight both `"I"` and `"love."`  
-  **Decision**: Output = `"I love"`.
-
-- **Memory Tracker**:  
-  - **Cell State**: `"I + 0.9(love)"`  
-  - **Hidden State**: `"I love"` (output)
-
-✅ **Output so far**: `"I love"`
-
----
-
-### Step 3: Time Step 3 ("myself")
-- **Input Provider (xₜ)**:  
-  Passes the final input: `xₜ = "myself"`.
-
-- **Forget Gate**:  
-  `"I"` is less important now.  
-  **Decision**: Forget 50% of the first memory.
-
-- **Input Gate**:  
-  `"Myself"` is very important.  
-  **Decision**: Keep 100% of `"myself"`.
-
-- **Output Gate**:  
-  Pass the combined knowledge.  
-  **Decision**: Output = `"I love myself"`.
-
-- **Memory Tracker**:  
-  - **Cell State**: `0.5("I") + 0.9("love") + 1("myself")`  
-  - **Hidden State**: `"I love myself"` (output)
-
-✅ **Final Output**: `"I love myself"`
-
----
-
-## 🔍 Example: Acting Out a GRU (5 People)
-
-Let’s walk through the GRU process using the input sequence:
-
-**Input Sequence**: `"I love myself."`
+## 🔍 Example 1: GRU with Input Sequence: "I love myself"
 
 ### Roles (5 People)
 - **Input Provider (xₜ)** – Feeds words into the model.
@@ -160,13 +78,11 @@ Let’s walk through the GRU process using the input sequence:
 
 - **Candidate Memory (h̃ₜ)**:  
   Since the reset gate is open, use `"I"` as new memory.  
-  ✅ **Candidate Memory**: `"I"`.
+  ✅ **Candidate Memory**: `"I"`
 
 - **Memory Tracker (hₜ)**:  
   Update memory with the new input.  
   ✅ **Output**: `"I"`
-
-✅ **Output so far**: `"I"`
 
 ---
 
@@ -184,13 +100,11 @@ Let’s walk through the GRU process using the input sequence:
 
 - **Candidate Memory (h̃ₜ)**:  
   Mix `"I"` and `"love"` to form updated memory.  
-  ✅ **Candidate Memory**: `"I love"`.
+  ✅ **Candidate Memory**: `"I love"`
 
 - **Memory Tracker (hₜ)**:  
   Blend the current memory with the candidate memory:  
   `hₜ = 0.6("I love") + 0.4("I") = "I love"`
-
-✅ **Output so far**: `"I love"`
 
 ---
 
@@ -213,5 +127,96 @@ Let’s walk through the GRU process using the input sequence:
 - **Memory Tracker (hₜ)**:  
   Update by blending old and new:  
   `hₜ = 0.7("I love myself") + 0.3("I love") = "I love myself"`
+
+✅ **Final Output**: `"I love myself"`
+
+---
+
+## 🔍 Example 2: LSTM with Input Sequence: "I love myself"
+
+### Roles (5 People)
+- **Input Provider (xₜ)** – Feeds words into the model.
+- **Forget Gate (fₜ)** – Decides how much previous memory to forget.
+- **Input Gate (iₜ)** – Decides how much of the new information to add to memory.
+- **Candidate Memory (ĉₜ)** – Suggests the new memory from the current input and previous memory.
+- **Memory Tracker (cₜ)** – Stores the cell state (memory) and shares the hidden state (hₜ).
+
+---
+
+### Step 1: Time Step 1 ("I")
+- **Input Provider (xₜ)**:  
+  Passes the first input: `xₜ = "I"`
+
+- **Forget Gate (fₜ)**:  
+  No prior memory, so nothing needs to be forgotten.  
+  ✅ **Decision**: Forget = 0 (keep all old memory).
+
+- **Input Gate (iₜ)**:  
+  Fully accept new information.  
+  ✅ **Decision**: Input = 1 (100% new memory).
+
+- **Candidate Memory (ĉₜ)**:  
+  Use `"I"` as new memory.  
+  ✅ **Candidate Memory**: `"I"`
+
+- **Memory Tracker (cₜ)**:  
+  Update the memory by combining the previous memory (none) and the new input.  
+  ✅ **Updated Memory (cₜ)**: `"I"`
+
+- **Hidden State (hₜ)**:  
+  Based on memory, output `"I"`.  
+  ✅ **Output**: `"I"`
+
+---
+
+### Step 2: Time Step 2 ("love")
+- **Input Provider (xₜ)**:  
+  Passes the next input: `xₜ = "love"`
+
+- **Forget Gate (fₜ)**:  
+  `"I"` is relevant, but let's decide to retain it.  
+  ✅ **Decision**: Forget = 0.4 (keep 60% of `"I"`).
+
+- **Input Gate (iₜ)**:  
+  New information should partially update memory.  
+  ✅ **Decision**: Input = 0.6 (keep 60% new input).
+
+- **Candidate Memory (ĉₜ)**:  
+  Combine `"I"` and `"love"` to create the new memory.  
+  ✅ **Candidate Memory**: `"I love"`
+
+- **Memory Tracker (cₜ)**:  
+  Update memory:  
+  `cₜ = 0.4("I") + 0.6("I love") = "I love"`
+
+- **Hidden State (hₜ)**:  
+  Output based on updated memory.  
+  ✅ **Output**: `"I love"`
+
+---
+
+### Step 3: Time Step 3 ("myself")
+- **Input Provider (xₜ)**:  
+  Passes the next input: `xₜ = "myself"`
+
+- **Forget Gate (fₜ)**:  
+  Keep most of the previous memory, but reduce a little bit.  
+  ✅ **Decision**: Forget = 0.2 (keep 80% of `"I love"`).
+
+- **Input Gate (iₜ)**:  
+  New input is highly relevant—significant update.  
+  ✅ **Decision**: Input = 0.8 (keep 80% new information).
+
+- **Candidate Memory (ĉₜ)**:  
+  Combine `"I love"` with `"myself."`  
+  ✅ **Candidate Memory**: `"I love myself"`
+
+- **Memory Tracker (cₜ)**:  
+  Update the memory:  
+  `cₜ = 0.2("I love") + 0.8("I love myself") = "I love myself"`
+
+- **Hidden State (hₜ)**:  
+  Output based on updated memory.  
+  ✅ **Output**: `"I love myself"`
 
 ✅ **Final Output**: `"I love myself"`
