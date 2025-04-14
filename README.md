@@ -32,8 +32,8 @@ Below is a tentative schedule of covered topics and associated activities. The s
 | **Week 10** | March 17 - March 21       | Sequence Modeling. RNN Architectures   | <ul><li> Read Chapter 9 in [Dive into Deep Learning](https://d2l.ai/chapter_recurrent-neural-networks)</li><li>[Activity 13](https://classroom.github.com/a/0Ny4qNkE)</li><li>[Activity 14](https://classroom.github.com/a/X6Cjydna)</li></ul> |
 | **Week 11** | March 24 - March 28      | RNNs. Long Short-Term Memory (LSTM). | <ul><li> Read Chapter 10 in [Dive into Deep Learning](https://d2l.ai/chapter_recurrent-modern)</li><li>[Lab 5](https://classroom.github.com/a/EmAg0Ajl)</li> </ul> |
 | **Week 12** | March 31 - April 4       | Modern RNNs. Attention. Project Proposals  | <ul><li> Read Chapter 10 in [Dive into Deep Learning](https://d2l.ai/chapter_recurrent-modern)</li><li>[Lab 5](https://classroom.github.com/a/EmAg0Ajl)</li> <li> [Activity 15](https://docs.google.com/presentation/d/1Hry9ImOswC2sUr3wqeJ1oAdbdNH1C61PVZdgw-WeYhc/edit?usp=sharing) </li> <li> [Activity 16](https://classroom.github.com/a/DLwVEObl)</li> <li> Read Chapter 11 in [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers)</li></ul> |
-| **Week 13** | April 7 - April 11       | Transformers.      | <ul><li>No Class on April 9th</li> <li> Read Chapter 11 in [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers)</li></ul>|
-| **Week 14** | April 14 - April 18      | Transformers.                             | |
+| **Week 13** | April 7 - April 11       | Attention.      | <ul><li>No Class on April 9th</li> <li> Read Chapter 11 in [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers)</li></ul>|
+| **Week 14** | April 14 - April 18      | Transformers.                             | <ul><li>[Activity 17](https://forms.gle/dW38V4RA71sKQ9J28)</li></ul>|
 | **Week 15** | April 21 - April 25      | Project Work, Peer Reviews                                                 | |
 | **Final Exam Period** | April 28 - May 2  | Final Exam on May 1st at 9am                                        | |
 
