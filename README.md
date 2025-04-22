@@ -34,7 +34,7 @@ Below is a tentative schedule of covered topics and associated activities. The s
 | **Week 12** | March 31 - April 4       | Modern RNNs. Attention. Project Proposals  | <ul><li> Read Chapter 10 in [Dive into Deep Learning](https://d2l.ai/chapter_recurrent-modern)</li><li>[Lab 5](https://classroom.github.com/a/EmAg0Ajl)</li> <li> [Activity 15](https://docs.google.com/presentation/d/1Hry9ImOswC2sUr3wqeJ1oAdbdNH1C61PVZdgw-WeYhc/edit?usp=sharing) </li> <li> [Activity 16](https://classroom.github.com/a/DLwVEObl)</li> <li> Read Chapter 11 in [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers)</li></ul> |
 | **Week 13** | April 7 - April 11       | Attention.      | <ul><li>No Class on April 9th</li> <li> Read Chapter 11 in [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers)</li></ul>|
 | **Week 14** | April 14 - April 18      | Transformers.                             | <ul><li>[Activity 17](https://forms.gle/dW38V4RA71sKQ9J28)</li> <li> [Project](https://classroom.github.com/a/ZZEdt8ue)</li> <li> [Activity 18](https://docs.google.com/presentation/d/1TvaSRM-Z0EZqpPzkTdH6pQuAvYGxJpl4eHvO8NXnvMk/edit?usp=sharing) </li> <li>[Activity 19](https://classroom.github.com/a/yeZrPhyh)</li> <li> Read Chapter 11 in [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers)</li></ul>|
-| **Week 15** | April 21 - April 25      | Hyperparameter Optimization. Model Deployment. Project Work, Peer Reviews. |  <li> Read Chapter 19 in [Dive into Deep Learning](https://d2l.ai/chapter_hyperparameter-optimization/index.html) |
+| **Week 15** | April 21 - April 25      | Hyperparameter Optimization. Model Deployment. Project Work, Peer Reviews. |  <li> Read Chapter 19.1 in [Dive into Deep Learning](https://d2l.ai/chapter_hyperparameter-optimization/index.html) |
 | **Final Exam Period** | April 28 - May 2  | Project Presentations & Final Exam on May 1st at 9am                                        | |
 
 ## Instructor
@@ -129,7 +129,7 @@ A = 97, A- = 93, B+ = 88, B=85, B-=82, C+ = 78, C = 75, C-=72, D = 65
 
 |Grading scale|            |             |            |             |            |
 |:------------|:-----------|:------------|:-----------|:------------|:-----------|
-|A            | 96 - 100   |A-           | 90 - 95.9  |
+|A            | 95 - 100   |A-           | 90 - 94.9  |
 |B+           | 87 - 89.9  |B            | 83 - 86.9  |B-           | 80 - 82.9  |
 |C+           | 77 - 79.9  |C            | 73 - 76.9  |C-           | 70 - 72.9  |
 |D+           | 67 - 69.9  |D            | 63 - 66.9  |D-           | 60 - 62.9  |
