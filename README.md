@@ -35,7 +35,7 @@ Below is a tentative schedule of covered topics and associated activities. The s
 | **Week 13** | April 7 - April 11       | Attention.      | <ul><li>No Class on April 9th</li> <li> Read Chapter 11 in [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers)</li></ul>|
 | **Week 14** | April 14 - April 18      | Transformers.                             | <ul><li>[Activity 17](https://forms.gle/dW38V4RA71sKQ9J28)</li> <li> [Project](https://classroom.github.com/a/ZZEdt8ue)</li> <li> [Activity 18](https://docs.google.com/presentation/d/1TvaSRM-Z0EZqpPzkTdH6pQuAvYGxJpl4eHvO8NXnvMk/edit?usp=sharing) </li> <li>[Activity 19](https://classroom.github.com/a/yeZrPhyh)</li> <li> Read Chapter 11 in [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers)</li></ul>|
 | **Week 15** | April 21 - April 25      | Hyperparameter Optimization. Model Deployment. Project Work, Peer Reviews. |  <ul><li> Read Chapter 19.1 in [Dive into Deep Learning](https://d2l.ai/chapter_hyperparameter-optimization/index.html)</li> <li>Activity 20: Submit Peer Review Issue using "Peer Review" template</li></ul> |
-| **Final Exam Period** | April 28 - May 2  | Project Presentations & Final Exam on May 1st at 9am                                        | |
+| **Final Exam Period** | April 28 - May 2  | <ul><li>[Final Review](https://docs.google.com/presentation/d/e/2PACX-1vTaWGxKwqZVZCwQFB4RFIeAnfstM1jfUF8SZ1wONsxq01bi13dpOgS4nkRCE6iV-_J1D0thp3IMjlNT/pub?start=false&loop=false&delayms=3000) </li> <li>Project Presentations & Final Exam on May 1st at 9am </li></ul>                                        | |
 
 ## Instructor
 
